@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Web App",
   "scripts": {
-    "dev": "parcel index.html",
-    "build": "parcel build index.html",
+    "dev": "parcel ./static/index.html",
+    "build": "parcel build ./static/index.html",
     "start": "node ./dist/server.js"
   },
   "engines": {

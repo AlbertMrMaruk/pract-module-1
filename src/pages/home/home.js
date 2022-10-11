@@ -7,12 +7,12 @@ const block2 = template({
   btnContext: {
     text: "Войти",
     wrapperClass: "btn btn-secondary",
-    link: "/static/login.html",
+    link: "/login.html",
   },
   btnContext2: {
     text: "Создать аккаунт",
     wrapperClass: "btn btn-primary",
-    link: "/static/signup.html",
+    link: "/signup.html",
   },
 });
 const root = document.querySelector("#root");

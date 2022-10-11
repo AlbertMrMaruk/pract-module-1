@@ -10,8 +10,8 @@ export const profile = `
             {{> myFieldSettings this}}
         {{/each}}
         </form>
-        <a class="link-auth" href="/static/profile-change.html">Изменить данные</a>
-        <a class="link-auth" href="/static/profile-pass-change.html">Изменить пароль</a>
+        <a class="link-auth" href="/profile-change.html">Изменить данные</a>
+        <a class="link-auth" href="/profile-pass-change.html">Изменить пароль</a>
         <a class="link-auth link-red" >Выйти</a>
         {{>myBtn buttonContext}}
     </div>

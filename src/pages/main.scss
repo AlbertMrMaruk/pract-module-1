@@ -3,9 +3,13 @@
 @import "../components/buttons/button.scss";
 @import "../components/fields/fields.scss";
 @import "../pages/profile/profile.scss";
+@import "../components//chats/chat.scss";
+@import "../pages/chats/chats.scss";
 body {
   background-color: $primary-color;
   font-family: $font-main;
+  padding: 0;
+  margin: 0;
 }
 .container {
   width: 1170px;
