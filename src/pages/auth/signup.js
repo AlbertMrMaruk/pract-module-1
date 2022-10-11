@@ -19,7 +19,7 @@ const block2 = template({
     text: "Создать аккаунт",
     wrapperClass: "btn btn-secondary",
   },
-  link: "/static/login.html",
+  link: "/login.html",
   linkText: "Есть аккаунт? Войти",
 });
 const root = document.querySelector("#root");

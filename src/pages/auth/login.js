@@ -14,7 +14,7 @@ const block = template({
     text: "Войти",
     wrapperClass: "btn btn-secondary",
   },
-  link: "/static/signup.html",
+  link: "/signup.html",
   linkText: "Нет аккаунта?",
 });
 const root = document.querySelector("#root");
