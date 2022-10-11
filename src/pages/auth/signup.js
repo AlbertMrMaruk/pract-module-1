@@ -17,7 +17,7 @@ const block2 = template({
   ],
   btnContext: {
     text: "Создать аккаунт",
-    wrapperClass: "btn btn-secondary ",
+    wrapperClass: "btn btn-secondary",
   },
   link: "/login.html",
   linkText: "Есть аккаунт? Войти",
